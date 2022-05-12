@@ -203,9 +203,9 @@ endmodule
 
 */
 ### RTL LOGIC FOR T FLIP FLOP:
-![output](./Tflipflop.png)
+![output](./tflipflop.png)
 ### TIMING DIAGRAM FOR T FLIP FLOP:
-![output](./Ttiming.png)
+![output](./ttiming.png)
 
 ### RESULTS :
 Hence all the flipflops are implemented using verilog programming and its functionality is validated successfully.
