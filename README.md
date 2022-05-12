@@ -1,4 +1,4 @@
-# EXPERIMENT 05:IMPLEMENTATION OF FLIPFLOPS USING VERILOG PROGRAMMING
+# EXPERIMENT 05:IMPLEMENTATION OF FLIP FLOPS USING VERILOG PROGRAMMING
 ## AIM:   
 To implement all the flipflops using verilog and validating their functionality using their functional tables
 ## HARDWARE REQUIRED:   
@@ -7,7 +7,7 @@ To implement all the flipflops using verilog and validating their functionality 
 3. USB flasher
 ## SOFTWARE REQUIRED:    
 1. Quartus prime
-## THEORY 
+## THEORY:
 SR Flip-Flop
 SR flip-flop operates with only positive clock transitions or negative clock transitions. Whereas, SR latch operates with enable signal. The circuit diagram of SR flip-flop is shown in the following figure.
 
