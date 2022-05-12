@@ -137,27 +137,6 @@ endmodule
 ### TIMING DIGRAMS FOR SR FLIP FLOP:
 ![output](./srtiming.png)
 
-## JK FLIP FLOP:
-### PROGRAM FOR JK FLIP FLOP:
-/*
-Program for JK flipflop  and verify its truth table in quartus using Verilog programming.
-Developed by: Rithiga Sri.B  
-RegisterNumber:  21221230083    
-module JK(J,K,Clk,Q,Qbar);  
-input J,K,Clk;  
-output Q,Qbar;  
-wire P,S;  
-nand(P,J,Clk,Qbar);  
-nand(S,K,Clk,Q);  
-nand(Q,P,Qbar);  
-nand(Qbar,S,Q);  
-endmodule   
-
-*/
-### RTL LOGIC FOR JK FLIP FLOP:
-![output](./jkflipflop.png)
-### TIMING DIGRAMS FOR JK FLIP FLOP:
-![output](./jktiming.png)
 
 ## D FLIP FLOP:
 ### PROGRAM FOR D FLIP FLOP:
@@ -181,6 +160,30 @@ endmodule
 ![output](./dflipflop.png)
 ### TIMING DIGRAMS FOR D FLIP FLOP:
 ![output](./dtiming.png)
+
+
+## JK FLIP FLOP:
+### PROGRAM FOR JK FLIP FLOP:
+/*
+Program for JK flipflop  and verify its truth table in quartus using Verilog programming.
+Developed by: Rithiga Sri.B  
+RegisterNumber:  21221230083    
+module JK(J,K,Clk,Q,Qbar);  
+input J,K,Clk;  
+output Q,Qbar;  
+wire P,S;  
+nand(P,J,Clk,Qbar);  
+nand(S,K,Clk,Q);  
+nand(Q,P,Qbar);  
+nand(Qbar,S,Q);  
+endmodule   
+
+*/
+### RTL LOGIC FOR JK FLIP FLOP:
+![output](./jkflipflop.png)
+### TIMING DIGRAMS FOR JK FLIP FLOP:
+![output](./jktiming.png)
+
 
 ## T FLIP FLOP:
 ### PROGRAM FOR T FLIP FLOP:
