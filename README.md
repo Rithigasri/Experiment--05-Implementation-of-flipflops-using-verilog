@@ -1,4 +1,4 @@
-# EXPERIMENT 05 IMPLEMENTATION OF FLIPFLOPS USING VERILOG PROGRAMMING
+# EXPERIMENT 05:IMPLEMENTATION OF FLIPFLOPS USING VERILOG PROGRAMMING
 ## AIM:   
 To implement all the flipflops using verilog and validating their functionality using their functional tables
 ## HARDWARE REQUIRED:   
