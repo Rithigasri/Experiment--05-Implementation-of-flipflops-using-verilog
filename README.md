@@ -134,7 +134,7 @@ endmodule
 */
 ### RTL LOGIC FOR SR FLIP FLOP:
 ![output](./srflipflop.png)
-### TIMING DIGRAMS FOR SR FLIP FLOP:
+### TIMING DIAGRAM FOR SR FLIP FLOP:
 ![output](./srtiming.png)
 
 
@@ -158,7 +158,7 @@ endmodule
 */
 ### RTL LOGIC FOR D FLIP FLOP:
 ![output](./dflipflop.png)
-### TIMING DIGRAMS FOR D FLIP FLOP:
+### TIMING DIAGRAM FOR D FLIP FLOP:
 ![output](./dtiming.png)
 
 
@@ -181,7 +181,7 @@ endmodule
 */
 ### RTL LOGIC FOR JK FLIP FLOP:
 ![output](./jkflipflop.png)
-### TIMING DIGRAMS FOR JK FLIP FLOP:
+### TIMING DIAGRAM FOR JK FLIP FLOP:
 ![output](./jktiming.png)
 
 
@@ -204,7 +204,7 @@ endmodule
 */
 ### RTL LOGIC FOR T FLIP FLOP:
 ![output](./Tflipflop.png)
-### TIMING DIGRAMS FOR T FLIP FLOP:
+### TIMING DIAGRAM FOR T FLIP FLOP:
 ![output](./Ttiming.png)
 
 ### RESULTS :
